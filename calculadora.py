@@ -1,7 +1,3 @@
-
-$ git config http.sslVerify false
-
-
 def calculadora():
     while True:
         try:
