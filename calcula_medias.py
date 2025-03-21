@@ -1,1 +1,1 @@
-print(f"O salário de João é 2500,00")
+print(f"O salário de João é 1400,00")
